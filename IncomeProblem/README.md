@@ -1,4 +1,4 @@
-2.	Problem - Census Income data
+Problem - Census Income data
 Considering the Census Income data with response variables as Income(>50k and <=50k).
 
 1.	Import the CSV dataset from here: Adult Census income. 
